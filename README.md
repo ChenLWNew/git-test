@@ -1,2 +1,2 @@
 # git-test
-* hotfix-523分支新增的内容
+* test分支新增的内容
